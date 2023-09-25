@@ -1,5 +1,4 @@
 ## Flask piemērs treniņam skolā
----
 Flask aplikācijas paraugs
 
 Nepieciešamās sasaistes atrodamas *requirements.txt* datnē.
